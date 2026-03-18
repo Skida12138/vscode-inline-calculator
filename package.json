@@ -1,6 +1,7 @@
 {
   "name": "vscode-inline-calculator",
   "displayName": "Inline Calculator",
+  "repository": "https://github.com/Skida12138/vscode-inline-calculator",
   "description": "A calculator extension with history support.",
   "version": "0.0.1",
   "engines": {
